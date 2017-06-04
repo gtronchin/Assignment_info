@@ -1,0 +1,805 @@
+Year,Trimester,Classification
+1950,DJF,La Nina
+1950,JFM,La Nina
+1950,FMA,La Nina
+1950,MAM,La Nina
+1950,AMJ,La Nina
+1950,MJJ,La Nina
+1950,JJA,La Nina
+1950,JAS,La Nina
+1950,ASO,La Nina
+1950,SON,La Nina
+1950,OND,La Nina
+1950,NDJ,La Nina
+1951,DJF,La Nina
+1951,JFM,La Nina
+1951,FMA,Regular
+1951,MAM,Regular
+1951,AMJ,Regular
+1951,MJJ,Regular
+1951,JJA,El Nino
+1951,JAS,El Nino
+1951,ASO,El Nino
+1951,SON,El Nino
+1951,OND,El Nino
+1951,NDJ,El Nino
+1952,DJF,El Nino
+1952,JFM,Regular
+1952,FMA,Regular
+1952,MAM,Regular
+1952,AMJ,Regular
+1952,MJJ,Regular
+1952,JJA,Regular
+1952,JAS,Regular
+1952,ASO,Regular
+1952,SON,Regular
+1952,OND,Regular
+1952,NDJ,Regular
+1953,DJF,El Nino
+1953,JFM,El Nino
+1953,FMA,El Nino
+1953,MAM,El Nino
+1953,AMJ,El Nino
+1953,MJJ,El Nino
+1953,JJA,El Nino
+1953,JAS,El Nino
+1953,ASO,El Nino
+1953,SON,El Nino
+1953,OND,El Nino
+1953,NDJ,El Nino
+1954,DJF,El Nino
+1954,JFM,Regular
+1954,FMA,Regular
+1954,MAM,Regular
+1954,AMJ,La Nina
+1954,MJJ,La Nina
+1954,JJA,La Nina
+1954,JAS,La Nina
+1954,ASO,La Nina
+1954,SON,La Nina
+1954,OND,La Nina
+1954,NDJ,La Nina
+1955,DJF,La Nina
+1955,JFM,La Nina
+1955,FMA,La Nina
+1955,MAM,La Nina
+1955,AMJ,La Nina
+1955,MJJ,La Nina
+1955,JJA,La Nina
+1955,JAS,La Nina
+1955,ASO,La Nina
+1955,SON,La Nina
+1955,OND,La Nina
+1955,NDJ,La Nina
+1956,DJF,La Nina
+1956,JFM,La Nina
+1956,FMA,La Nina
+1956,MAM,La Nina
+1956,AMJ,La Nina
+1956,MJJ,Regular
+1956,JJA,Regular
+1956,JAS,Regular
+1956,ASO,Regular
+1956,SON,Regular
+1956,OND,Regular
+1956,NDJ,Regular
+1957,DJF,Regular
+1957,JFM,Regular
+1957,FMA,Regular
+1957,MAM,El Nino
+1957,AMJ,El Nino
+1957,MJJ,El Nino
+1957,JJA,El Nino
+1957,JAS,El Nino
+1957,ASO,El Nino
+1957,SON,El Nino
+1957,OND,El Nino
+1957,NDJ,El Nino
+1958,DJF,El Nino
+1958,JFM,El Nino
+1958,FMA,El Nino
+1958,MAM,El Nino
+1958,AMJ,El Nino
+1958,MJJ,El Nino
+1958,JJA,El Nino
+1958,JAS,Regular
+1958,ASO,Regular
+1958,SON,El Nino
+1958,OND,El Nino
+1958,NDJ,El Nino
+1959,DJF,El Nino
+1959,JFM,El Nino
+1959,FMA,Regular
+1959,MAM,Regular
+1959,AMJ,Regular
+1959,MJJ,Regular
+1959,JJA,Regular
+1959,JAS,Regular
+1959,ASO,Regular
+1959,SON,Regular
+1959,OND,Regular
+1959,NDJ,Regular
+1960,DJF,Regular
+1960,JFM,Regular
+1960,FMA,Regular
+1960,MAM,Regular
+1960,AMJ,Regular
+1960,MJJ,Regular
+1960,JJA,Regular
+1960,JAS,Regular
+1960,ASO,Regular
+1960,SON,Regular
+1960,OND,Regular
+1960,NDJ,Regular
+1961,DJF,Regular
+1961,JFM,Regular
+1961,FMA,Regular
+1961,MAM,Regular
+1961,AMJ,Regular
+1961,MJJ,Regular
+1961,JJA,Regular
+1961,JAS,Regular
+1961,ASO,Regular
+1961,SON,Regular
+1961,OND,Regular
+1961,NDJ,Regular
+1962,DJF,Regular
+1962,JFM,Regular
+1962,FMA,Regular
+1962,MAM,Regular
+1962,AMJ,Regular
+1962,MJJ,Regular
+1962,JJA,Regular
+1962,JAS,Regular
+1962,ASO,Regular
+1962,SON,Regular
+1962,OND,Regular
+1962,NDJ,Regular
+1963,DJF,Regular
+1963,JFM,Regular
+1963,FMA,Regular
+1963,MAM,Regular
+1963,AMJ,Regular
+1963,MJJ,Regular
+1963,JJA,El Nino
+1963,JAS,El Nino
+1963,ASO,El Nino
+1963,SON,El Nino
+1963,OND,El Nino
+1963,NDJ,El Nino
+1964,DJF,El Nino
+1964,JFM,El Nino
+1964,FMA,Regular
+1964,MAM,Regular
+1964,AMJ,La Nina
+1964,MJJ,La Nina
+1964,JJA,La Nina
+1964,JAS,La Nina
+1964,ASO,La Nina
+1964,SON,La Nina
+1964,OND,La Nina
+1964,NDJ,La Nina
+1965,DJF,La Nina
+1965,JFM,Regular
+1965,FMA,Regular
+1965,MAM,Regular
+1965,AMJ,Regular
+1965,MJJ,El Nino
+1965,JJA,El Nino
+1965,JAS,El Nino
+1965,ASO,El Nino
+1965,SON,El Nino
+1965,OND,El Nino
+1965,NDJ,El Nino
+1966,DJF,El Nino
+1966,JFM,El Nino
+1966,FMA,El Nino
+1966,MAM,El Nino
+1966,AMJ,Regular
+1966,MJJ,Regular
+1966,JJA,Regular
+1966,JAS,Regular
+1966,ASO,Regular
+1966,SON,Regular
+1966,OND,Regular
+1966,NDJ,Regular
+1967,DJF,Regular
+1967,JFM,Regular
+1967,FMA,Regular
+1967,MAM,Regular
+1967,AMJ,Regular
+1967,MJJ,Regular
+1967,JJA,Regular
+1967,JAS,Regular
+1967,ASO,Regular
+1967,SON,Regular
+1967,OND,Regular
+1967,NDJ,La Nina
+1968,DJF,La Nina
+1968,JFM,La Nina
+1968,FMA,La Nina
+1968,MAM,La Nina
+1968,AMJ,Regular
+1968,MJJ,Regular
+1968,JJA,Regular
+1968,JAS,Regular
+1968,ASO,Regular
+1968,SON,Regular
+1968,OND,El Nino
+1968,NDJ,El Nino
+1969,DJF,El Nino
+1969,JFM,El Nino
+1969,FMA,El Nino
+1969,MAM,El Nino
+1969,AMJ,El Nino
+1969,MJJ,El Nino
+1969,JJA,Regular
+1969,JAS,El Nino
+1969,ASO,El Nino
+1969,SON,El Nino
+1969,OND,El Nino
+1969,NDJ,El Nino
+1970,DJF,El Nino
+1970,JFM,Regular
+1970,FMA,Regular
+1970,MAM,Regular
+1970,AMJ,Regular
+1970,MJJ,Regular
+1970,JJA,La Nina
+1970,JAS,La Nina
+1970,ASO,La Nina
+1970,SON,La Nina
+1970,OND,La Nina
+1970,NDJ,La Nina
+1971,DJF,La Nina
+1971,JFM,La Nina
+1971,FMA,La Nina
+1971,MAM,La Nina
+1971,AMJ,La Nina
+1971,MJJ,La Nina
+1971,JJA,La Nina
+1971,JAS,La Nina
+1971,ASO,La Nina
+1971,SON,La Nina
+1971,OND,La Nina
+1971,NDJ,La Nina
+1972,DJF,La Nina
+1972,JFM,Regular
+1972,FMA,Regular
+1972,MAM,Regular
+1972,AMJ,El Nino
+1972,MJJ,El Nino
+1972,JJA,El Nino
+1972,JAS,El Nino
+1972,ASO,El Nino
+1972,SON,El Nino
+1972,OND,El Nino
+1972,NDJ,El Nino
+1973,DJF,El Nino
+1973,JFM,El Nino
+1973,FMA,El Nino
+1973,MAM,Regular
+1973,AMJ,Regular
+1973,MJJ,La Nina
+1973,JJA,La Nina
+1973,JAS,La Nina
+1973,ASO,La Nina
+1973,SON,La Nina
+1973,OND,La Nina
+1973,NDJ,La Nina
+1974,DJF,La Nina
+1974,JFM,La Nina
+1974,FMA,La Nina
+1974,MAM,La Nina
+1974,AMJ,La Nina
+1974,MJJ,La Nina
+1974,JJA,La Nina
+1974,JAS,Regular
+1974,ASO,Regular
+1974,SON,La Nina
+1974,OND,La Nina
+1974,NDJ,La Nina
+1975,DJF,La Nina
+1975,JFM,La Nina
+1975,FMA,La Nina
+1975,MAM,La Nina
+1975,AMJ,La Nina
+1975,MJJ,La Nina
+1975,JJA,La Nina
+1975,JAS,La Nina
+1975,ASO,La Nina
+1975,SON,La Nina
+1975,OND,La Nina
+1975,NDJ,La Nina
+1976,DJF,La Nina
+1976,JFM,La Nina
+1976,FMA,La Nina
+1976,MAM,Regular
+1976,AMJ,Regular
+1976,MJJ,Regular
+1976,JJA,Regular
+1976,JAS,Regular
+1976,ASO,El Nino
+1976,SON,El Nino
+1976,OND,El Nino
+1976,NDJ,El Nino
+1977,DJF,El Nino
+1977,JFM,El Nino
+1977,FMA,Regular
+1977,MAM,Regular
+1977,AMJ,Regular
+1977,MJJ,Regular
+1977,JJA,Regular
+1977,JAS,Regular
+1977,ASO,El Nino
+1977,SON,El Nino
+1977,OND,El Nino
+1977,NDJ,El Nino
+1978,DJF,El Nino
+1978,JFM,Regular
+1978,FMA,Regular
+1978,MAM,Regular
+1978,AMJ,Regular
+1978,MJJ,Regular
+1978,JJA,Regular
+1978,JAS,Regular
+1978,ASO,Regular
+1978,SON,Regular
+1978,OND,Regular
+1978,NDJ,Regular
+1979,DJF,Regular
+1979,JFM,Regular
+1979,FMA,Regular
+1979,MAM,Regular
+1979,AMJ,Regular
+1979,MJJ,Regular
+1979,JJA,Regular
+1979,JAS,Regular
+1979,ASO,Regular
+1979,SON,El Nino
+1979,OND,El Nino
+1979,NDJ,El Nino
+1980,DJF,El Nino
+1980,JFM,El Nino
+1980,FMA,Regular
+1980,MAM,Regular
+1980,AMJ,Regular
+1980,MJJ,Regular
+1980,JJA,Regular
+1980,JAS,Regular
+1980,ASO,Regular
+1980,SON,Regular
+1980,OND,Regular
+1980,NDJ,Regular
+1981,DJF,Regular
+1981,JFM,Regular
+1981,FMA,Regular
+1981,MAM,Regular
+1981,AMJ,Regular
+1981,MJJ,Regular
+1981,JJA,Regular
+1981,JAS,Regular
+1981,ASO,Regular
+1981,SON,Regular
+1981,OND,Regular
+1981,NDJ,Regular
+1982,DJF,Regular
+1982,JFM,Regular
+1982,FMA,Regular
+1982,MAM,El Nino
+1982,AMJ,El Nino
+1982,MJJ,El Nino
+1982,JJA,El Nino
+1982,JAS,El Nino
+1982,ASO,El Nino
+1982,SON,El Nino
+1982,OND,El Nino
+1982,NDJ,El Nino
+1983,DJF,El Nino
+1983,JFM,El Nino
+1983,FMA,El Nino
+1983,MAM,El Nino
+1983,AMJ,El Nino
+1983,MJJ,El Nino
+1983,JJA,Regular
+1983,JAS,Regular
+1983,ASO,Regular
+1983,SON,Regular
+1983,OND,Regular
+1983,NDJ,Regular
+1984,DJF,Regular
+1984,JFM,Regular
+1984,FMA,Regular
+1984,MAM,Regular
+1984,AMJ,Regular
+1984,MJJ,Regular
+1984,JJA,Regular
+1984,JAS,Regular
+1984,ASO,Regular
+1984,SON,La Nina
+1984,OND,La Nina
+1984,NDJ,La Nina
+1985,DJF,La Nina
+1985,JFM,La Nina
+1985,FMA,La Nina
+1985,MAM,La Nina
+1985,AMJ,La Nina
+1985,MJJ,La Nina
+1985,JJA,Regular
+1985,JAS,Regular
+1985,ASO,Regular
+1985,SON,Regular
+1985,OND,Regular
+1985,NDJ,Regular
+1986,DJF,Regular
+1986,JFM,Regular
+1986,FMA,Regular
+1986,MAM,Regular
+1986,AMJ,Regular
+1986,MJJ,Regular
+1986,JJA,Regular
+1986,JAS,Regular
+1986,ASO,El Nino
+1986,SON,El Nino
+1986,OND,El Nino
+1986,NDJ,El Nino
+1987,DJF,El Nino
+1987,JFM,El Nino
+1987,FMA,El Nino
+1987,MAM,El Nino
+1987,AMJ,El Nino
+1987,MJJ,El Nino
+1987,JJA,El Nino
+1987,JAS,El Nino
+1987,ASO,El Nino
+1987,SON,El Nino
+1987,OND,El Nino
+1987,NDJ,El Nino
+1988,DJF,El Nino
+1988,JFM,El Nino
+1988,FMA,Regular
+1988,MAM,Regular
+1988,AMJ,La Nina
+1988,MJJ,La Nina
+1988,JJA,La Nina
+1988,JAS,La Nina
+1988,ASO,La Nina
+1988,SON,La Nina
+1988,OND,La Nina
+1988,NDJ,La Nina
+1989,DJF,La Nina
+1989,JFM,La Nina
+1989,FMA,La Nina
+1989,MAM,La Nina
+1989,AMJ,La Nina
+1989,MJJ,Regular
+1989,JJA,Regular
+1989,JAS,Regular
+1989,ASO,Regular
+1989,SON,Regular
+1989,OND,Regular
+1989,NDJ,Regular
+1990,DJF,Regular
+1990,JFM,Regular
+1990,FMA,Regular
+1990,MAM,Regular
+1990,AMJ,Regular
+1990,MJJ,Regular
+1990,JJA,Regular
+1990,JAS,Regular
+1990,ASO,Regular
+1990,SON,Regular
+1990,OND,Regular
+1990,NDJ,Regular
+1991,DJF,Regular
+1991,JFM,Regular
+1991,FMA,Regular
+1991,MAM,Regular
+1991,AMJ,Regular
+1991,MJJ,El Nino
+1991,JJA,El Nino
+1991,JAS,El Nino
+1991,ASO,El Nino
+1991,SON,El Nino
+1991,OND,El Nino
+1991,NDJ,El Nino
+1992,DJF,El Nino
+1992,JFM,El Nino
+1992,FMA,El Nino
+1992,MAM,El Nino
+1992,AMJ,El Nino
+1992,MJJ,El Nino
+1992,JJA,El Nino
+1992,JAS,Regular
+1992,ASO,Regular
+1992,SON,Regular
+1992,OND,Regular
+1992,NDJ,Regular
+1993,DJF,Regular
+1993,JFM,Regular
+1993,FMA,Regular
+1993,MAM,Regular
+1993,AMJ,Regular
+1993,MJJ,Regular
+1993,JJA,Regular
+1993,JAS,Regular
+1993,ASO,Regular
+1993,SON,Regular
+1993,OND,Regular
+1993,NDJ,Regular
+1994,DJF,Regular
+1994,JFM,Regular
+1994,FMA,Regular
+1994,MAM,Regular
+1994,AMJ,Regular
+1994,MJJ,Regular
+1994,JJA,Regular
+1994,JAS,Regular
+1994,ASO,Regular
+1994,SON,El Nino
+1994,OND,El Nino
+1994,NDJ,El Nino
+1995,DJF,El Nino
+1995,JFM,El Nino
+1995,FMA,El Nino
+1995,MAM,Regular
+1995,AMJ,Regular
+1995,MJJ,Regular
+1995,JJA,Regular
+1995,JAS,La Nina
+1995,ASO,La Nina
+1995,SON,La Nina
+1995,OND,La Nina
+1995,NDJ,La Nina
+1996,DJF,La Nina
+1996,JFM,La Nina
+1996,FMA,La Nina
+1996,MAM,Regular
+1996,AMJ,Regular
+1996,MJJ,Regular
+1996,JJA,Regular
+1996,JAS,Regular
+1996,ASO,Regular
+1996,SON,Regular
+1996,OND,Regular
+1996,NDJ,Regular
+1997,DJF,Regular
+1997,JFM,Regular
+1997,FMA,Regular
+1997,MAM,Regular
+1997,AMJ,El Nino
+1997,MJJ,El Nino
+1997,JJA,El Nino
+1997,JAS,El Nino
+1997,ASO,El Nino
+1997,SON,El Nino
+1997,OND,El Nino
+1997,NDJ,El Nino
+1998,DJF,El Nino
+1998,JFM,El Nino
+1998,FMA,El Nino
+1998,MAM,El Nino
+1998,AMJ,El Nino
+1998,MJJ,Regular
+1998,JJA,La Nina
+1998,JAS,La Nina
+1998,ASO,La Nina
+1998,SON,La Nina
+1998,OND,La Nina
+1998,NDJ,La Nina
+1999,DJF,La Nina
+1999,JFM,La Nina
+1999,FMA,La Nina
+1999,MAM,La Nina
+1999,AMJ,La Nina
+1999,MJJ,La Nina
+1999,JJA,La Nina
+1999,JAS,La Nina
+1999,ASO,La Nina
+1999,SON,La Nina
+1999,OND,La Nina
+1999,NDJ,La Nina
+2000,DJF,La Nina
+2000,JFM,La Nina
+2000,FMA,La Nina
+2000,MAM,La Nina
+2000,AMJ,La Nina
+2000,MJJ,La Nina
+2000,JJA,La Nina
+2000,JAS,La Nina
+2000,ASO,La Nina
+2000,SON,La Nina
+2000,OND,La Nina
+2000,NDJ,La Nina
+2001,DJF,La Nina
+2001,JFM,La Nina
+2001,FMA,Regular
+2001,MAM,Regular
+2001,AMJ,Regular
+2001,MJJ,Regular
+2001,JJA,Regular
+2001,JAS,Regular
+2001,ASO,Regular
+2001,SON,Regular
+2001,OND,Regular
+2001,NDJ,Regular
+2002,DJF,Regular
+2002,JFM,Regular
+2002,FMA,Regular
+2002,MAM,Regular
+2002,AMJ,Regular
+2002,MJJ,El Nino
+2002,JJA,El Nino
+2002,JAS,El Nino
+2002,ASO,El Nino
+2002,SON,El Nino
+2002,OND,El Nino
+2002,NDJ,El Nino
+2003,DJF,El Nino
+2003,JFM,El Nino
+2003,FMA,Regular
+2003,MAM,Regular
+2003,AMJ,Regular
+2003,MJJ,Regular
+2003,JJA,Regular
+2003,JAS,Regular
+2003,ASO,Regular
+2003,SON,Regular
+2003,OND,Regular
+2003,NDJ,Regular
+2004,DJF,Regular
+2004,JFM,Regular
+2004,FMA,Regular
+2004,MAM,Regular
+2004,AMJ,Regular
+2004,MJJ,Regular
+2004,JJA,El Nino
+2004,JAS,El Nino
+2004,ASO,El Nino
+2004,SON,El Nino
+2004,OND,El Nino
+2004,NDJ,El Nino
+2005,DJF,El Nino
+2005,JFM,El Nino
+2005,FMA,El Nino
+2005,MAM,El Nino
+2005,AMJ,Regular
+2005,MJJ,Regular
+2005,JJA,Regular
+2005,JAS,Regular
+2005,ASO,Regular
+2005,SON,Regular
+2005,OND,Regular
+2005,NDJ,Regular
+2006,DJF,Regular
+2006,JFM,Regular
+2006,FMA,Regular
+2006,MAM,Regular
+2006,AMJ,Regular
+2006,MJJ,Regular
+2006,JJA,Regular
+2006,JAS,Regular
+2006,ASO,El Nino
+2006,SON,El Nino
+2006,OND,El Nino
+2006,NDJ,El Nino
+2007,DJF,El Nino
+2007,JFM,Regular
+2007,FMA,Regular
+2007,MAM,Regular
+2007,AMJ,Regular
+2007,MJJ,Regular
+2007,JJA,Regular
+2007,JAS,La Nina
+2007,ASO,La Nina
+2007,SON,La Nina
+2007,OND,La Nina
+2007,NDJ,La Nina
+2008,DJF,La Nina
+2008,JFM,La Nina
+2008,FMA,La Nina
+2008,MAM,La Nina
+2008,AMJ,La Nina
+2008,MJJ,La Nina
+2008,JJA,Regular
+2008,JAS,Regular
+2008,ASO,Regular
+2008,SON,Regular
+2008,OND,Regular
+2008,NDJ,Regular
+2009,DJF,Regular
+2009,JFM,Regular
+2009,FMA,Regular
+2009,MAM,Regular
+2009,AMJ,Regular
+2009,MJJ,Regular
+2009,JJA,El Nino
+2009,JAS,El Nino
+2009,ASO,El Nino
+2009,SON,El Nino
+2009,OND,El Nino
+2009,NDJ,El Nino
+2010,DJF,El Nino
+2010,JFM,El Nino
+2010,FMA,El Nino
+2010,MAM,El Nino
+2010,AMJ,Regular
+2010,MJJ,Regular
+2010,JJA,La Nina
+2010,JAS,La Nina
+2010,ASO,La Nina
+2010,SON,La Nina
+2010,OND,La Nina
+2010,NDJ,La Nina
+2011,DJF,La Nina
+2011,JFM,La Nina
+2011,FMA,La Nina
+2011,MAM,La Nina
+2011,AMJ,Regular
+2011,MJJ,Regular
+2011,JJA,Regular
+2011,JAS,La Nina
+2011,ASO,La Nina
+2011,SON,La Nina
+2011,OND,La Nina
+2011,NDJ,La Nina
+2012,DJF,La Nina
+2012,JFM,La Nina
+2012,FMA,Regular
+2012,MAM,Regular
+2012,AMJ,Regular
+2012,MJJ,Regular
+2012,JJA,Regular
+2012,JAS,Regular
+2012,ASO,Regular
+2012,SON,Regular
+2012,OND,Regular
+2012,NDJ,Regular
+2013,DJF,Regular
+2013,JFM,Regular
+2013,FMA,Regular
+2013,MAM,Regular
+2013,AMJ,Regular
+2013,MJJ,Regular
+2013,JJA,Regular
+2013,JAS,Regular
+2013,ASO,Regular
+2013,SON,Regular
+2013,OND,Regular
+2013,NDJ,Regular
+2014,DJF,Regular
+2014,JFM,Regular
+2014,FMA,Regular
+2014,MAM,Regular
+2014,AMJ,Regular
+2014,MJJ,Regular
+2014,JJA,Regular
+2014,JAS,Regular
+2014,ASO,Regular
+2014,SON,Regular
+2014,OND,El Nino
+2014,NDJ,El Nino
+2015,DJF,El Nino
+2015,JFM,El Nino
+2015,FMA,El Nino
+2015,MAM,El Nino
+2015,AMJ,El Nino
+2015,MJJ,El Nino
+2015,JJA,El Nino
+2015,JAS,El Nino
+2015,ASO,El Nino
+2015,SON,El Nino
+2015,OND,El Nino
+2015,NDJ,El Nino
+2016,DJF,El Nino
+2016,JFM,El Nino
+2016,FMA,El Nino
+2016,MAM,El Nino
+2016,AMJ,El Nino
+2016,MJJ,Regular
+2016,JJA,Regular
+2016,JAS,La Nina
+2016,ASO,La Nina
+2016,SON,La Nina
+2016,OND,La Nina
+2016,NDJ,La Nina
